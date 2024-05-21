@@ -1,4 +1,4 @@
-Variational Autoencoder (VAE) Implementation using Keras
+Variational Autoencoder (VAE) Implementation using Keras:
 This project demonstrates the implementation of a Variational Autoencoder (VAE) using Keras. The VAE is trained on the MNIST dataset and is capable of generating new handwritten digits by sampling from the latent space.
 
 Introduction:
